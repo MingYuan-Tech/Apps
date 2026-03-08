@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Office 暫存檔
+~$*
+
+# Claude
+.claude/
+CLAUDE.md
