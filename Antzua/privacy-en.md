@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
+permalink: /Antzua/privacy/en/
 ---
 
 # Privacy Policy

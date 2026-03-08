@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 개인정보 처리방침
+permalink: /Antzua/privacy/ko/
 ---
 
 # 개인정보 처리방침

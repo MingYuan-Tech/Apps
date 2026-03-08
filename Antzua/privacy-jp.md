@@ -1,6 +1,7 @@
 ---
 layout: default
 title: プライバシーポリシー
+permalink: /Antzua/privacy/jp/
 ---
 
 # プライバシーポリシー

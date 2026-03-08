@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Terms of Service
+permalink: /Antzua/terms/en/
 ---
 
 # Terms of Service

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 이용약관
+permalink: /Antzua/terms/ko/
 ---
 
 # 이용약관

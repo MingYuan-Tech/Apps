@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 利用規約
+permalink: /Antzua/terms/jp/
 ---
 
 # 利用規約
