@@ -87,4 +87,4 @@ Google 서비스는 해당 개인정보 처리방침에 따릅니다. 자세한 
 
 ---
 
-본 개인정보 처리방침 온라인 버전: [https://mingyuan-tech.github.io/AntzuaDocs/privacy](https://mingyuan-tech.github.io/AntzuaDocs/privacy)
+본 개인정보 처리방침 온라인 버전: [https://mingyuan-tech.github.io/Apps/Antzua/privacy/ko](https://mingyuan-tech.github.io/Apps/Antzua/privacy/ko)

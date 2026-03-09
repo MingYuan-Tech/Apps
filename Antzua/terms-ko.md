@@ -112,4 +112,4 @@ Antzua 앱의 모든 콘텐츠, 디자인, 코드 및 관련 자료는 지적 �
 
 ---
 
-본 이용약관 온라인 버전: [https://mingyuan-tech.github.io/AntzuaDocs/terms](https://mingyuan-tech.github.io/AntzuaDocs/terms)
+본 이용약관 온라인 버전: [https://mingyuan-tech.github.io/Apps/Antzua/terms/ko](https://mingyuan-tech.github.io/Apps/Antzua/terms/ko)

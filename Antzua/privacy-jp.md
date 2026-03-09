@@ -87,4 +87,4 @@ Googleのサービスはそのプライバシーポリシーに準拠します�
 
 ---
 
-本プライバシーポリシーのオンライン版：[https://mingyuan-tech.github.io/AntzuaDocs/privacy](https://mingyuan-tech.github.io/AntzuaDocs/privacy)
+本プライバシーポリシーのオンライン版：[https://mingyuan-tech.github.io/Apps/Antzua/privacy/jp](https://mingyuan-tech.github.io/Apps/Antzua/privacy/jp)

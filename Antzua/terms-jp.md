@@ -112,4 +112,4 @@ Antzuaアプリのすべてのコンテンツ、デザイン、コード、お�
 
 ---
 
-本利用規約のオンライン版：[https://mingyuan-tech.github.io/AntzuaDocs/terms](https://mingyuan-tech.github.io/AntzuaDocs/terms)
+本利用規約のオンライン版：[https://mingyuan-tech.github.io/Apps/Antzua/terms/jp](https://mingyuan-tech.github.io/Apps/Antzua/terms/jp)

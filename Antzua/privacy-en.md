@@ -87,4 +87,4 @@ If you have any questions or suggestions about this privacy policy, please leave
 
 ---
 
-Online version of this privacy policy: [https://mingyuan-tech.github.io/AntzuaDocs/privacy](https://mingyuan-tech.github.io/AntzuaDocs/privacy)
+Online version of this privacy policy: [https://mingyuan-tech.github.io/Apps/Antzua/privacy/en](https://mingyuan-tech.github.io/Apps/Antzua/privacy/en)

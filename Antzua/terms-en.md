@@ -112,4 +112,4 @@ If you have any questions or suggestions about these terms of service, please le
 
 ---
 
-Online version of these terms of service: [https://mingyuan-tech.github.io/AntzuaDocs/terms](https://mingyuan-tech.github.io/AntzuaDocs/terms)
+Online version of these terms of service: [https://mingyuan-tech.github.io/Apps/Antzua/terms/en](https://mingyuan-tech.github.io/Apps/Antzua/terms/en)

@@ -106,3 +106,6 @@ APP 啟動時會透過 GPS 定位或系統語言判斷您所在的地區。若�
 ## 11. 聯絡我們
 
 如對本服務條款有任何疑問或建議，歡迎透過 App Store 評論留言，我們會盡快回覆。
+
+---
+線上版服務條款：[https://mingyuan-tech.github.io/Apps/Antzua/terms](https://mingyuan-tech.github.io/Apps/Antzua/terms)

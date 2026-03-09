@@ -81,3 +81,7 @@ Google 相關服務受其隱私權政策規範，詳見 [Google 隱私權政策]
 ## 8. 聯絡我們
 
 如對本隱私權政策有任何疑問或建議，歡迎透過 App Store 評論留言，我們會盡快回覆。
+
+---
+
+線上版隱私權政策：[https://mingyuan-tech.github.io/Apps/Antzua/privacy](https://mingyuan-tech.github.io/Apps/Antzua/privacy)
