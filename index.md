@@ -31,7 +31,7 @@ description: 銘源科技工作室 - 專注於軟體開發和技術創新，提�
 <section class="section">
   <h2 class="section-title">作品展示</h2>
   <div class="app-card fade-in">
-    <span class="app-icon">&#x1F4CD;</span>
+    <img src="{{ '/assets/css/imgs/antzua_icon_map_1024.png' | relative_url }}" alt="安抓造 Antzua" class="app-icon-img">
     <div>
       <h3><a href="{{ '/Antzua/' | relative_url }}">安抓造 Antzua</a></h3>
       <p>業務跑客戶、物流送貨、旅遊排景點——多個地點怎麼走最順？安抓造幫你一鍵算出最佳路線！支援相機掃描快速建立地址，搭配逐站語音導航，讓你專心在路上，不再煩惱路線。</p>

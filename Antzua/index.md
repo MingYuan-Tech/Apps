@@ -5,6 +5,7 @@ description: 安抓造 - 多點路線最佳化 APP，一鍵算出最佳路線，
 ---
 
 <section class="app-header fade-in">
+  <img src="{{ '/assets/css/imgs/antzua_icon_map_1024.png' | relative_url }}" alt="安抓造 Antzua" class="app-header-icon">
   <h1>安抓造 Antzua</h1>
   <p class="app-desc">
     業務跑客戶、物流送貨、旅遊排景點——多個地點怎麼走最順？<br>
@@ -34,6 +35,11 @@ description: 安抓造 - 多點路線最佳化 APP，一鍵算出最佳路線，
       <span class="feature-icon">&#x1F4CB;</span>
       <h3>路線管理</h3>
       <p>儲存常用路線，隨時調用，方便日常重複性的多點拜訪行程。</p>
+    </div>
+    <div class="feature-card fade-in fade-in-delay-3">
+      <img src="{{ '/assets/css/imgs/antzua_iap_icon.png' | relative_url }}" alt="IAP 訂閱" class="feature-icon-img">
+      <h3>進階訂閱</h3>
+      <p>訂閱進階功能，解鎖更多路線規劃選項，提升工作效率。</p>
     </div>
   </div>
 </section>

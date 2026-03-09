@@ -246,6 +246,14 @@ img {
   flex-shrink: 0;
 }
 
+.app-card .app-icon-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 18px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
 .app-card h3 {
   font-size: 1.3rem;
   font-weight: 700;
@@ -272,6 +280,14 @@ img {
 .app-header {
   text-align: center;
   padding: 60px 0 40px;
+}
+
+.app-header-icon {
+  width: 120px;
+  height: 120px;
+  border-radius: 24px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
 }
 
 .app-header h1 {
@@ -314,6 +330,14 @@ img {
   font-size: 2rem;
   margin-bottom: 12px;
   display: block;
+}
+
+.feature-card .feature-icon-img {
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  object-fit: cover;
 }
 
 .feature-card h3 {
