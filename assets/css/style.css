@@ -88,9 +88,8 @@ img {
 
 .nav-brand {
   display: grid;
-  grid-template-columns:  1fr;
+  grid-template-columns: auto 1fr;
   grid-template-rows: 1fr 1fr;
-  font-size: 1.1rem;
   font-weight: 700;
   color: var(--primary);
   text-decoration: none;
@@ -106,8 +105,16 @@ img {
 .nav-logo-name {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  padding-left: 12px;
+  list-style: 1;
+  padding-left: 6px;
+  &:first-of-type {
+    justify-content: flex-end;
+    font-size: 18px;
+  }
+  &:last-of-type {
+    justify-content: flex-start;
+    font-size: 11.5px;
+  }
 }
 
 .nav-brand:hover {
