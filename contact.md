@@ -14,7 +14,7 @@ description: 歡迎與銘源科技工作室聯繫，我們很樂意為您提供�
     <div class="contact-card fade-in fade-in-delay-1">
       <span class="contact-icon">&#x2709;</span>
       <h3>Email</h3>
-      <a href="mailto:jeff2101@gmail.com">jeff2101@gmail.com</a>
+      <a href="mailto:service@myt-studio.com.tw">service@myt-studio.com.tw</a>
     </div>
     <div class="contact-card fade-in fade-in-delay-2">
       <span class="contact-icon">&#x1F310;</span>

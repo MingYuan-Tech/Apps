@@ -231,7 +231,7 @@ img {
   padding: 40px 36px;
   box-shadow: var(--shadow);
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   gap: 28px;
   transition: transform var(--transition), box-shadow var(--transition);
 }
