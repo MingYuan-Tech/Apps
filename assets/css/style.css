@@ -445,6 +445,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 12px 24px;
+  margin-bottom: 0!important;
 }
 
 .legal-links a {
