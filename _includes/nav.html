@@ -1,21 +1,21 @@
 <nav class="site-nav">
   <div class="container nav-inner">
-    <div class="nav-logo-wrapper">
-      <a href="{{ '/' | relative_url }}" class="nav-brand">
-        <img src="{{ '/assets/imgs/MingYuan-Logo.png' | relative_url }}" alt="銘源科技工作室" class="nav-logo">
-      </a>
-      <span class="nav-logo-cht-name">銘源科技工作室</span>
-      <span class="nav-logo-eng-name">MingYuan Tech Studio</span>
-    </div>
+    <a href="{{ '/' | relative_url }}" class="nav-brand">
+      <img src="{{ '/assets/imgs/MingYuan-Logo.png' | relative_url }}" alt="銘源科技工作室" class="nav-logo">
+      <span class="nav-logo-name">銘源科技工作室</span>
+      <span class="nav-logo-name">MingYuan Tech Studio</span>
+    </a>
     <button class="nav-toggle" aria-label="選單" onclick="this.nextElementSibling.classList.toggle('open')">
       <span></span>
       <span></span>
       <span></span>
     </button>
     <ul class="nav-links">
-      <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>首頁</a></li>
-      <li><a href="{{ '/Antzua/' | relative_url }}" {% if page.url contains '/Antzua' %}class="active"{% endif %}>安抓造</a></li>
-      <li><a href="{{ '/contact' | relative_url }}" {% if page.url contains '/contact' %}class="active"{% endif %}>聯絡我們</a></li>
+      <li><a href="{{ '/' | relative_url }}" {% if page.url=='/' %}class="active" {% endif %}>首頁</a></li>
+      <li><a href="{{ '/Antzua/' | relative_url }}" {% if page.url contains '/Antzua' %}class="active" {% endif
+          %}>安抓造</a></li>
+      <li><a href="{{ '/contact' | relative_url }}" {% if page.url contains '/contact' %}class="active" {% endif
+          %}>聯絡我們</a></li>
     </ul>
   </div>
 </nav>

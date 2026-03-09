@@ -80,10 +80,16 @@ img {
   height: 64px;
 }
 
+.nav-logo-wrapper {
+  display: grid;
+  grid-template-columns: 36px 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
 .nav-brand {
-  display: flex;
-  align-items: center;
-  gap: 10px;
+  display: grid;
+  grid-template-columns:  1fr;
+  grid-template-rows: 1fr 1fr;
   font-size: 1.1rem;
   font-weight: 700;
   color: var(--primary);
@@ -92,8 +98,16 @@ img {
 }
 
 .nav-logo {
-  height: 36px;
+  height: 60px;
   width: auto;
+  grid-row: 1 / span 2;
+}
+
+.nav-logo-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 12px;
 }
 
 .nav-brand:hover {
@@ -575,6 +589,7 @@ img {
     opacity: 0;
     transform: translateY(20px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -585,9 +600,17 @@ img {
   animation: fadeInUp 0.6s ease forwards;
 }
 
-.fade-in-delay-1 { animation-delay: 0.1s; }
-.fade-in-delay-2 { animation-delay: 0.2s; }
-.fade-in-delay-3 { animation-delay: 0.3s; }
+.fade-in-delay-1 {
+  animation-delay: 0.1s;
+}
+
+.fade-in-delay-2 {
+  animation-delay: 0.2s;
+}
+
+.fade-in-delay-3 {
+  animation-delay: 0.3s;
+}
 
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
