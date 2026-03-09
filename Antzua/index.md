@@ -64,8 +64,9 @@ description: 安抓造 - 多點路線最佳化 APP，一鍵算出最佳路線，
 <section class="download-section fade-in">
   <h2 class="section-title">立即下載</h2>
   <div class="download-buttons">
-    <a href="#" class="btn-download disabled">App Store（即將上架）</a>
-    <a href="#" class="btn-download disabled">Google Play（即將上架）</a>
+    <a href="https://apps.apple.com/us/app/%E5%AE%89%E6%8A%93%E9%80%A0/id6759782009">
+      <img src="{{ '/assets/imgs/appstore_badge.svg' | relative_url }}" alt="下載 iOS 版本">
+    </a>
   </div>
 </section>
 
