@@ -1,6 +1,12 @@
-title: 銘源科技工作室 MingYuan Technology Studio
-description: ""
+title: 銘源科技工作室 MingYuan Tech Studio
+description: 專注於軟體開發和技術創新，提供高品質的軟體解決方案與技術服務。
 theme: minima
 markdown: kramdown
 
+# 停用 minima 預設的 header 頁面，改用自訂導覽列
 header_pages: []
+
+# 排除不需要處理的檔案
+exclude:
+  - CLAUDE.md
+  - README.md

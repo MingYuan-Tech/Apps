@@ -1,18 +1,40 @@
 ---
 layout: default
-title: 銘源科技工作室 Mingyuan Technology Studio
-description: 銘源科技工作室是一個專注於軟體開發和技術創新的團隊，致力於提供高品質的軟體解決方案和技術服務。我們的目標是通過創新的技術和優質的服務，幫助客戶實現業務增長和成功。
-header_pages: []
+title: 首頁
+description: 銘源科技工作室 - 專注於軟體開發和技術創新，提供高品質的軟體解決方案與技術服務。
 ---
 
-# 銘源科技工作室 Mingyuan Technology Studio
-銘源科技工作室是一個專注於軟體開發和技術創新的團隊，致力於提供高品質的軟體解決方案和技術服務。我們的目標是通過創新的技術和優質的服務，幫助客戶實現業務增長和成功。
+<section class="hero fade-in">
+  <h1>銘源科技工作室</h1>
+  <p class="slogan">MingYuan Tech Studio</p>
+  <p class="intro">
+    我們是一個專注於軟體開發和技術創新的團隊，致力於提供高品質的軟體解決方案和技術服務。透過創新的技術與用心的服務，幫助客戶實現業務目標。
+  </p>
+</section>
 
-# 服務項目
-- 軟體開發：我們提供定制化的軟體開發服務，涵蓋了從需求分析、設計、開發到測試和部署的全流程。我們的團隊擁有豐富的經驗，能夠根據客戶的需求提供高效、可靠的軟體解決方案。
-- 技術諮詢：我們提供專業的技術諮詢服務，幫助客戶解決技術難題，優化系統架構，提升性能和安全性。我們的專家團隊擁有廣泛的技術知識和實戰經驗，能夠為客戶提供有價值的建議和解決方案。
+<section class="section">
+  <h2 class="section-title">服務項目</h2>
+  <div class="cards">
+    <div class="card fade-in fade-in-delay-1">
+      <span class="card-icon">&#x1F4BB;</span>
+      <h3>軟體開發</h3>
+      <p>提供客製化的軟體開發服務，涵蓋需求分析、設計、開發到測試和部署的全流程。根據客戶需求打造高效、可靠的軟體解決方案。</p>
+    </div>
+    <div class="card fade-in fade-in-delay-2">
+      <span class="card-icon">&#x1F4A1;</span>
+      <h3>技術諮詢</h3>
+      <p>提供專業的技術諮詢服務，幫助客戶解決技術難題、優化系統架構、提升效能與安全性，為您的專案提供有價值的建議。</p>
+    </div>
+  </div>
+</section>
 
-# 現有項目
-- 安抓造 - 業務跑客戶、物流送貨、旅遊排景點——多個地點怎麼走最順？安抓造幫你一鍵算出最佳路線！支援相機掃描快速建立地址，搭配逐站語音導航，讓你專心在路上，不再煩惱路線。
-
-> 最後更新日期：2026-03-08
+<section class="section">
+  <h2 class="section-title">作品展示</h2>
+  <div class="app-card fade-in">
+    <span class="app-icon">&#x1F4CD;</span>
+    <div>
+      <h3><a href="{{ '/Antzua/' | relative_url }}">安抓造 Antzua</a></h3>
+      <p>業務跑客戶、物流送貨、旅遊排景點——多個地點怎麼走最順？安抓造幫你一鍵算出最佳路線！支援相機掃描快速建立地址，搭配逐站語音導航，讓你專心在路上，不再煩惱路線。</p>
+    </div>
+  </div>
+</section>

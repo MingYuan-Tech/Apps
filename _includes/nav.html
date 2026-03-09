@@ -1,0 +1,15 @@
+<nav class="site-nav">
+  <div class="container nav-inner">
+    <a href="{{ '/' | relative_url }}" class="nav-brand">銘源科技工作室</a>
+    <button class="nav-toggle" aria-label="選單" onclick="this.nextElementSibling.classList.toggle('open')">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <ul class="nav-links">
+      <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>首頁</a></li>
+      <li><a href="{{ '/Antzua/' | relative_url }}" {% if page.url contains '/Antzua' %}class="active"{% endif %}>安抓造</a></li>
+      <li><a href="{{ '/contact' | relative_url }}" {% if page.url contains '/contact' %}class="active"{% endif %}>聯絡我們</a></li>
+    </ul>
+  </div>
+</nav>
