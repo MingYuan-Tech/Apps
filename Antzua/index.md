@@ -49,7 +49,7 @@ description: 安抓造 - 多點路線最佳化 APP，一鍵算出最佳路線，
 
 <section class="section">
   <div class="legal-links fade-in">
-    <h3>法律文件</h3>
+    <h2 class="legal-title">法律文件</h2>
     <ul>
       <li><a href="{{ '/Antzua/privacy' | relative_url }}">隱私權政策</a></li>
       <li><a href="{{ '/Antzua/terms' | relative_url }}">服務條款</a></li>

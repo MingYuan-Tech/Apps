@@ -432,7 +432,7 @@ img {
   margin-top: 16px;
 }
 
-.legal-links h3 {
+.legal-links h2.legal-title {
   font-size: 1.2rem;
   font-weight: 700;
   color: var(--primary);
