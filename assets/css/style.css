@@ -395,6 +395,85 @@ img {
   line-height: 1.6;
 }
 
+/* ===== Screenshots Carousel ===== */
+.screenshots-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.screenshots-track {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  padding: 8px 0;
+  scrollbar-width: thin;
+  scrollbar-color: var(--gray-200) transparent;
+}
+
+.screenshots-track::-webkit-scrollbar {
+  height: 6px;
+}
+
+.screenshots-track::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.screenshots-track::-webkit-scrollbar-thumb {
+  background: var(--gray-200);
+  border-radius: 3px;
+}
+
+.screenshot-img {
+  flex-shrink: 0;
+  height: 420px;
+  width: auto;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  scroll-snap-align: start;
+  transition: transform var(--transition);
+}
+
+.screenshot-img:hover {
+  transform: scale(1.02);
+}
+
+.screenshots-btn {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 50%;
+  background: var(--white);
+  box-shadow: var(--shadow);
+  color: var(--primary);
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: all var(--transition);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.screenshots-btn:hover {
+  background: var(--primary);
+  color: var(--white);
+  box-shadow: var(--shadow-hover);
+}
+
+@media (max-width: 768px) {
+  .screenshots-btn {
+    display: none;
+  }
+
+  .screenshot-img {
+    height: 320px;
+  }
+}
+
 /* ===== Download Buttons ===== */
 .download-section {
   text-align: center;
