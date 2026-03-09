@@ -56,7 +56,6 @@ description: 安抓造 - 多點路線最佳化 APP，一鍵算出最佳路線，
       <img src="{{ '/assets/imgs/thumbs/10.png' | relative_url }}" alt="截圖 10" class="screenshot-img">
       <img src="{{ '/assets/imgs/thumbs/11.png' | relative_url }}" alt="截圖 11" class="screenshot-img">
       <img src="{{ '/assets/imgs/thumbs/12.png' | relative_url }}" alt="截圖 12" class="screenshot-img">
-      <img src="{{ '/assets/imgs/thumbs/13.png' | relative_url }}" alt="截圖 13" class="screenshot-img">
     </div>
     <button class="screenshots-btn screenshots-btn-next" aria-label="下一張" onclick="this.previousElementSibling.scrollBy({left:240,behavior:'smooth'})">&#x276F;</button>
   </div>
