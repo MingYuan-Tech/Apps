@@ -53,8 +53,8 @@ description: 安抓造 - 多點路線最佳化 APP，一鍵算出最佳路線，
     <ul>
       <li><a href="{{ '/Antzua/privacy' | relative_url }}">隱私權政策</a></li>
       <li><a href="{{ '/Antzua/terms' | relative_url }}">服務條款</a></li>
-      <li><a href="{{ '/Antzua/privacy-en' | relative_url }}">Privacy Policy</a></li>
-      <li><a href="{{ '/Antzua/terms-en' | relative_url }}">Terms of Service</a></li>
+      <li><a href="{{ '/Antzua/privacy/en' | relative_url }}">Privacy Policy</a></li>
+      <li><a href="{{ '/Antzua/terms/en' | relative_url }}">Terms of Service</a></li>
     </ul>
   </div>
 </section>
