@@ -39,6 +39,29 @@ description: 安抓造 - 多點路線最佳化 APP，一鍵算出最佳路線，
   </div>
 </section>
 
+<section class="section fade-in">
+  <h2 class="section-title">APP 截圖</h2>
+  <div class="screenshots-wrapper">
+    <button class="screenshots-btn screenshots-btn-prev" aria-label="上一張" onclick="this.nextElementSibling.scrollBy({left:-240,behavior:'smooth'})">&#x276E;</button>
+    <div class="screenshots-track">
+      <img src="{{ '/assets/imgs/thumbs/01.png' | relative_url }}" alt="截圖 1" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/02.png' | relative_url }}" alt="截圖 2" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/03.png' | relative_url }}" alt="截圖 3" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/04.png' | relative_url }}" alt="截圖 4" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/05.png' | relative_url }}" alt="截圖 5" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/06.png' | relative_url }}" alt="截圖 6" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/07.png' | relative_url }}" alt="截圖 7" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/08.png' | relative_url }}" alt="截圖 8" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/09.png' | relative_url }}" alt="截圖 9" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/10.png' | relative_url }}" alt="截圖 10" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/11.png' | relative_url }}" alt="截圖 11" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/12.png' | relative_url }}" alt="截圖 12" class="screenshot-img">
+      <img src="{{ '/assets/imgs/thumbs/13.png' | relative_url }}" alt="截圖 13" class="screenshot-img">
+    </div>
+    <button class="screenshots-btn screenshots-btn-next" aria-label="下一張" onclick="this.previousElementSibling.scrollBy({left:240,behavior:'smooth'})">&#x276F;</button>
+  </div>
+</section>
+
 <section class="download-section fade-in">
   <h2 class="section-title">立即下載</h2>
   <div class="download-buttons">
