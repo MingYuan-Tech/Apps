@@ -88,12 +88,24 @@ img {
 
 .nav-brand {
   display: grid;
-  grid-template-columns: auto 1fr;
   grid-template-rows: 1fr 16px;
   font-weight: 700;
   color: var(--primary);
   text-decoration: none;
   letter-spacing: -0.02em;
+  position: relative;
+  height: 100%;
+  padding: 5px 0;
+  &::before {
+    content: '';
+    position: absolute;
+    display: block;
+    background: url('{{ "/assets/imgs/MingYuan-Logo.png" | relative_url }}') no-repeat center/contain;
+    height: 56px;
+    width: 48px;
+    left: 0;
+    bottom: 4px;
+  }
 }
 
 .nav-logo {
@@ -106,6 +118,7 @@ img {
   display: flex;
   flex-direction: column;
   line-height: 1;
+  padding-left: 42px;
 
   &:first-of-type {
     justify-content: flex-end;
