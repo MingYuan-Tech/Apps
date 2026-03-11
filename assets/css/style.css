@@ -100,7 +100,7 @@ img {
     content: '';
     position: absolute;
     display: block;
-    background: url('var(--logo)') no-repeat center/contain;
+    background: var(--logo-url) no-repeat center/contain;
     height: 56px;
     width: 48px;
     left: 0;
