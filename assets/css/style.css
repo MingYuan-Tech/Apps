@@ -100,7 +100,7 @@ img {
     content: '';
     position: absolute;
     display: block;
-    background: url('/Apps/assets/imgs/MingYuan-Logo.png') no-repeat center/contain;
+    background: url('var(--logo)') no-repeat center/contain;
     height: 56px;
     width: 48px;
     left: 0;
