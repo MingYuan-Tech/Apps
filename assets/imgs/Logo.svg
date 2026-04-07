@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" style="fill:transparent;">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="132.5" y1="75" x2="132.5" y2="425" id="gradient-0">
+      <stop offset="0" style="stop-color: rgb(51, 73, 117);"/>
+      <stop offset="1" style="stop-color: rgb(28, 39, 62);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="440" y1="308.1" x2="440" y2="425" id="gradient-1">
+      <stop offset="0" style="stop-color: rgb(146, 146, 146);"/>
+      <stop offset="1" style="stop-color: rgb(37.994% 37.994% 37.994%)"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path style="fill: url(#gradient-0); fill-rule: nonzero; stroke-linecap: round; stroke-linejoin: round; paint-order: fill;" d="M20 75 20 415Q20 425 30 425L90 425Q100 425 100 415L100 193 198 300 245 245 100 85Q90 75 80 75Z "/>
+    <path style="fill: url(#gradient-0); fill-rule: nonzero; stroke-linecap: round; stroke-linejoin: round; paint-order: fill;" d="M400 85Q410 75 420 75L480 75 480 280 400 315 400 193 230 412Q218 425 203 425L160 425Q130 425 145 407Z "/>
+    <path style="fill: url(#gradient-1); fill-rule: nonzero; stroke-linecap: round; stroke-linejoin: round; paint-order: fill;" d="M400 347Q400 340 407 338L473 309Q480 306 480 313L480 390Q480 425 445 425L400 425Z"/>
+  </g>
+</svg>
