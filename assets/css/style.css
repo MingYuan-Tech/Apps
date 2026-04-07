@@ -77,7 +77,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 64px;
+  height: 48px;
 }
 
 .nav-logo-wrapper {
@@ -95,16 +95,16 @@ img {
   letter-spacing: -0.02em;
   position: relative;
   height: 100%;
-  padding: 5px 0;
+  padding: 4px 0;
   &::before {
     content: '';
     position: absolute;
     display: block;
     background: var(--logo-url) no-repeat center/contain;
-    height: 56px;
+    height: 48px;
     width: 48px;
     left: 0;
-    bottom: 4px;
+    top: 0;
   }
 }
 
@@ -118,7 +118,7 @@ img {
   display: flex;
   flex-direction: column;
   line-height: 1;
-  padding-left: 42px;
+  padding-left: 52px;
 
   &:first-of-type {
     justify-content: flex-end;
