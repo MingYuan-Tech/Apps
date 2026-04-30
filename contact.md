@@ -13,8 +13,8 @@ description: 歡迎與銘源科技工作室聯繫，我們很樂意為您提供�
   <div class="contact-cards">
     <div class="contact-card fade-in fade-in-delay-1">
       <span class="contact-icon">📬</span>
-      <h3>Email</h3>
-      <a href="mailto:jeff@mytechs.com.tw">jeff@mytechs.com.tw</a>
+      <h3>客服信箱</h3>
+      <a href="mailto:service@mytechs.com.tw">service@mytechs.com.tw</a>
     </div>
     <div class="contact-card fade-in fade-in-delay-2">
       <span class="contact-icon">🌐</span>
