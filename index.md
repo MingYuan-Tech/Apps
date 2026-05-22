@@ -37,4 +37,11 @@ description: 銘源科技工作室 - 專注於軟體開發和技術創新，提�
       <p>業務跑客戶、物流送貨、旅遊排景點——多個地點怎麼走最順？安抓造幫你一鍵算出最佳路線！支援相機掃描快速建立地址，搭配逐站語音導航，讓你專心在路上，不再煩惱路線。</p>
     </div>
   </div>
+  <div class="app-card fade-in fade-in-delay-1">
+    <img src="{{ '/imgs/flyto_icon.png' | relative_url }}" alt="FlyTo - GPS Simulator for macOS" class="app-icon-img">
+    <div>
+      <h3><a href="https://flyto.mytechs.com.tw/" target="_blank" rel="noopener">FlyTo - GPS Simulator for macOS</a></h3>
+      <p>專為 macOS 打造的 GPS 模擬工具，可將指定座標一鍵推送至 iOS 模擬器、iOS 實機與 Android 裝置。支援瞬移、單次行進與多點路線模擬，搭配 DirectionPad 即時微調、書籤管理與 GPX 匯入，是開發測試與情境模擬的好幫手。</p>
+    </div>
+  </div>
 </section>
