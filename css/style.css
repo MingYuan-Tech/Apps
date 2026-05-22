@@ -267,6 +267,12 @@ img {
 }
 
 /* ===== App Card (大卡片) ===== */
+.app-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
 .app-card {
   background: var(--white);
   border-radius: var(--radius);
